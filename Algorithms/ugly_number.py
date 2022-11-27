@@ -5,8 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         ugly = [2,3,5]
-        count = 0
-
+        
         if n<=0:
             return False
 
